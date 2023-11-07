@@ -1,2 +1,3 @@
-# hugging-face-stuff
-R&amp;D around NLP use cases via Hugging Face Hub and more NLP "stuff"
+# 🤗 Hugging Face Stuff 🤗
+
+Personal R&D related to NLP use cases using, but not liimited to, the Hugging Face Hub
